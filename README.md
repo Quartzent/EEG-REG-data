@@ -1,2 +1,2 @@
 # EEG-REG-data
-Here is raw datasets of EEG and REG recordings. Excel files contain extracted values of brain waves and REG parameters that were used in further analysis.
+Here is datasets of EEG and REG parameters in Excel files that were used for further analysis.
